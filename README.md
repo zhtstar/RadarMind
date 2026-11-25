@@ -6,7 +6,6 @@
 
 <p>
   <a href="https://doi.org/10.1109/TAES.2026.3719218"><img src="https://img.shields.io/badge/Paper-IEEE-00629B?logo=ieee&logoColor=white" alt="IEEE paper" /></a>
-  <a href="https://openreview.net/forum?id=StGQ99KD78"><img src="https://img.shields.io/badge/OpenReview-Paper-8C1B13" alt="OpenReview" /></a>
   <a href="https://huggingface.co/datasets/zhtstar/SARLingu"><img src="https://img.shields.io/badge/Hugging%20Face-Dataset-FFD21E?logo=huggingface&logoColor=black" alt="Hugging Face dataset" /></a>
   <a href="https://modelscope.cn/datasets/zhtstar/SARLingu"><img src="https://img.shields.io/badge/ModelScope-Dataset-624AFF" alt="ModelScope dataset" /></a>
   <a href="https://huggingface.co/zhtstar/RadarMind-3B"><img src="https://img.shields.io/badge/Hugging%20Face-3B-FFD21E?logo=huggingface&logoColor=black" alt="RadarMind-3B on Hugging Face" /></a>
